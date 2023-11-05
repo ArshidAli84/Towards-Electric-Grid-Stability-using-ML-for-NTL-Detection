@@ -1,4 +1,4 @@
-# Towards-Electric-Grid-Stability-using-ML-for-NTL-Detection
+# **Towards-Electric-Grid-Stability-using-ML-for-NTL-Detection**
 
 This repository contains code for a comprehensive data analysis and machine learning project focused on smart grid inspection data provided by SGCC. The main highlights of the project include:
 
